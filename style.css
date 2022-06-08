@@ -295,9 +295,9 @@ body {
 .item-service_border .item__service__icon {
     
 }
-
-
 .item-service__icon {
+    display: flex;
+    justify-content: center;
 }
 .item__service__title {
     font-weight: 700;
